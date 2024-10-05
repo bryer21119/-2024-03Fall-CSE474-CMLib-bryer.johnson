@@ -1,10 +1,10 @@
-**Software Quality Assurance Plan (SQAP)**
+Software Quality Assurance Plan (SQAP)
 
-**Project Name:** Project Golf
-**Version:** 1.0
-**Date:** 10-5-2024
-**Prepared by:** Bryer Johnson
-**Approved by:** Brother Scott Wood
+Project Name: Project Golf
+Version: 1.0
+Date: 10-5-2024
+Prepared by: Bryer Johnson
+Approved by: Brother Scott Wood
 
 1. Introduction
 1.1 Purpose
@@ -18,6 +18,7 @@ SQA: Software Quality Assurance
 SDLC: Software Development Life Cycle
 QA: Quality Assurance
 QC: Quality Control
+
 2. Management
 2.1 Organization
 Describe the organizational structure for the project, including key roles and responsibilities.
