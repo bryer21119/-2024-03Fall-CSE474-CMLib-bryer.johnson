@@ -1,1 +1,1 @@
-This file contains the contents for CSE474
+This folder contains the contents for CSE474
